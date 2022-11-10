@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SearchGamesTutorial</string>
+    <string name="go_to_the_game_page">Go to the game page</string>
 </resources>
