@@ -1,4 +1,4 @@
-package com.jorgesanaguaray.searchgamestutorial
+package com.jorgesanaguaray.searchgamestutorial.ui
 
 import android.content.Intent
 import android.net.Uri
@@ -9,8 +9,6 @@ import androidx.appcompat.widget.SearchView
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.get
 import com.jorgesanaguaray.searchgamestutorial.databinding.ActivityMainBinding
-import com.jorgesanaguaray.searchgamestutorial.ui.GameAdapter
-import com.jorgesanaguaray.searchgamestutorial.ui.GameViewModel
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint
