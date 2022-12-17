@@ -36,4 +36,4 @@ An Android app that allows users to search for games by title using Retrofit to 
 
 [Tutorial on YouTube](https://youtu.be/JjLd1x3E6Pg)
 
-![App Screenshot](https://pbs.twimg.com/media/FhUYhWCXgAA1K3O?format=jpg&name=large)
+![App Screenshot](https://pbs.twimg.com/media/FkN2eyUXwAgXKRG?format=jpg&name=large)
